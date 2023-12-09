@@ -9,10 +9,13 @@ public class TEST {
 		System.out.println("c");
 		System.out.println("d");
 		System.out.println("e");
+	
+		System.out.println("test case 1 - login");
+		System.out.println("test case 2 - search product");
 		
-		System.out.println("11111111111111111");
-		System.out.println("2222222222222222");
 		
-		
+		System.out.println("11111111111");
+	
+
 	}
 }
